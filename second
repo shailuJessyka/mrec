@@ -1,3 +1,6 @@
 this is for commit 
+<<<<<<< HEAD
 this is the second one
 this is the third
+=======
+>>>>>>> parent of 4b9d7cf... second
